@@ -1,4 +1,9 @@
 # TUGAS-UAS-PEMPROGRAMAN
+
+nama =margaretha futri irwan       
+Nim =312510337          
+Kelas =TI25.c5
+
 🔹 1. Tujuan Program
 
 Program ini bertujuan untuk:
